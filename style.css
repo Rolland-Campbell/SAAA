@@ -11,3 +11,6 @@
   width: auto;
 }
 
+.carouselsize{
+  min-height: 10vh;
+}
