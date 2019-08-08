@@ -1,7 +1,6 @@
 *{
   outline: 1px solid red;
 }
-
 .bgscotblue{
   background-color: #001f7e;
 }
@@ -12,5 +11,10 @@
 }
 
 .carouselsize{
-  min-height: 10vh;
+  min-height: 40vh;
+}
+
+.carousel-item{
+  width: auto;
+  height: auto;
 }
