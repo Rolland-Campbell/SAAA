@@ -1,6 +1,3 @@
-*{
-  outline: 1px solid red;
-}
 .bgscotblue{
   background-color: #001f7e;
 }
@@ -15,6 +12,10 @@
 }
 
 .carousel-item{
-  width: auto;
-  height: auto;
+  width: 576;
+  height: 300;
+}
+
+.card-caber{
+
 }
